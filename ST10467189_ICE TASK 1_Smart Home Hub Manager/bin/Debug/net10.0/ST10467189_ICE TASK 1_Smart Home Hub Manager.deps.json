@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ST10467189_ICE TASK 1_Smart Home Hub Manager/1.0.0": {
+        "runtime": {
+          "ST10467189_ICE TASK 1_Smart Home Hub Manager.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ST10467189_ICE TASK 1_Smart Home Hub Manager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

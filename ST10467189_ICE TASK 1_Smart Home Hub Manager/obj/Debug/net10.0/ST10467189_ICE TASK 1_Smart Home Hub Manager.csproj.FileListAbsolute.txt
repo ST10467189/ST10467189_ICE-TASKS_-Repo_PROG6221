@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\ST10467189_ICE TASK 1_Smart Home Hub Manager\ST10467189_ICE TASK 1_Smart Home Hub Manager\bin\Debug\net10.0\ST10467189_ICE TASK 1_Smart Home Hub Manager.exe
+C:\Users\User\source\repos\ST10467189_ICE TASK 1_Smart Home Hub Manager\ST10467189_ICE TASK 1_Smart Home Hub Manager\bin\Debug\net10.0\ST10467189_ICE TASK 1_Smart Home Hub Manager.deps.json
+C:\Users\User\source\repos\ST10467189_ICE TASK 1_Smart Home Hub Manager\ST10467189_ICE TASK 1_Smart Home Hub Manager\bin\Debug\net10.0\ST10467189_ICE TASK 1_Smart Home Hub Manager.runtimeconfig.json
+C:\Users\User\source\repos\ST10467189_ICE TASK 1_Smart Home Hub Manager\ST10467189_ICE TASK 1_Smart Home Hub Manager\bin\Debug\net10.0\ST10467189_ICE TASK 1_Smart Home Hub Manager.dll
+C:\Users\User\source\repos\ST10467189_ICE TASK 1_Smart Home Hub Manager\ST10467189_ICE TASK 1_Smart Home Hub Manager\bin\Debug\net10.0\ST10467189_ICE TASK 1_Smart Home Hub Manager.pdb
+C:\Users\User\source\repos\ST10467189_ICE TASK 1_Smart Home Hub Manager\ST10467189_ICE TASK 1_Smart Home Hub Manager\obj\Debug\net10.0\ST10467189_ICE TASK 1_Smart Home Hub Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ST10467189_ICE TASK 1_Smart Home Hub Manager\ST10467189_ICE TASK 1_Smart Home Hub Manager\obj\Debug\net10.0\ST10467189_ICE TASK 1_Smart Home Hub Manager.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ST10467189_ICE TASK 1_Smart Home Hub Manager\ST10467189_ICE TASK 1_Smart Home Hub Manager\obj\Debug\net10.0\ST10467189_ICE TASK 1_Smart Home Hub Manager.AssemblyInfo.cs
+C:\Users\User\source\repos\ST10467189_ICE TASK 1_Smart Home Hub Manager\ST10467189_ICE TASK 1_Smart Home Hub Manager\obj\Debug\net10.0\ST10467189_ICE TASK 1_Smart Home Hub Manager.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ST10467189_ICE TASK 1_Smart Home Hub Manager\ST10467189_ICE TASK 1_Smart Home Hub Manager\obj\Debug\net10.0\ST10467189_ICE TASK 1_Smart Home Hub Manager.dll
+C:\Users\User\source\repos\ST10467189_ICE TASK 1_Smart Home Hub Manager\ST10467189_ICE TASK 1_Smart Home Hub Manager\obj\Debug\net10.0\refint\ST10467189_ICE TASK 1_Smart Home Hub Manager.dll
+C:\Users\User\source\repos\ST10467189_ICE TASK 1_Smart Home Hub Manager\ST10467189_ICE TASK 1_Smart Home Hub Manager\obj\Debug\net10.0\ST10467189_ICE TASK 1_Smart Home Hub Manager.pdb
+C:\Users\User\source\repos\ST10467189_ICE TASK 1_Smart Home Hub Manager\ST10467189_ICE TASK 1_Smart Home Hub Manager\obj\Debug\net10.0\ST10467189_ICE TASK 1_Smart Home Hub Manager.genruntimeconfig.cache
+C:\Users\User\source\repos\ST10467189_ICE TASK 1_Smart Home Hub Manager\ST10467189_ICE TASK 1_Smart Home Hub Manager\obj\Debug\net10.0\ref\ST10467189_ICE TASK 1_Smart Home Hub Manager.dll

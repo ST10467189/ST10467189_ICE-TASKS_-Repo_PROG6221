@@ -1,0 +1,18 @@
+C:\Users\User\source\repos\ST1067189_ICE TASK 2_AEGIS AI\ST1067189_ICE TASK 2_AEGIS AI\bin\Debug\net10.0-windows\ST1067189_ICE TASK 2_AEGIS AI.exe
+C:\Users\User\source\repos\ST1067189_ICE TASK 2_AEGIS AI\ST1067189_ICE TASK 2_AEGIS AI\bin\Debug\net10.0-windows\ST1067189_ICE TASK 2_AEGIS AI.deps.json
+C:\Users\User\source\repos\ST1067189_ICE TASK 2_AEGIS AI\ST1067189_ICE TASK 2_AEGIS AI\bin\Debug\net10.0-windows\ST1067189_ICE TASK 2_AEGIS AI.runtimeconfig.json
+C:\Users\User\source\repos\ST1067189_ICE TASK 2_AEGIS AI\ST1067189_ICE TASK 2_AEGIS AI\bin\Debug\net10.0-windows\ST1067189_ICE TASK 2_AEGIS AI.dll
+C:\Users\User\source\repos\ST1067189_ICE TASK 2_AEGIS AI\ST1067189_ICE TASK 2_AEGIS AI\bin\Debug\net10.0-windows\ST1067189_ICE TASK 2_AEGIS AI.pdb
+C:\Users\User\source\repos\ST1067189_ICE TASK 2_AEGIS AI\ST1067189_ICE TASK 2_AEGIS AI\bin\Debug\net10.0-windows\System.Speech.dll
+C:\Users\User\source\repos\ST1067189_ICE TASK 2_AEGIS AI\ST1067189_ICE TASK 2_AEGIS AI\bin\Debug\net10.0-windows\runtimes\win\lib\net10.0\System.Speech.dll
+C:\Users\User\source\repos\ST1067189_ICE TASK 2_AEGIS AI\ST1067189_ICE TASK 2_AEGIS AI\obj\Debug\net10.0-windows\ST1067189_ICE TASK 2_AEGIS AI.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ST1067189_ICE TASK 2_AEGIS AI\ST1067189_ICE TASK 2_AEGIS AI\obj\Debug\net10.0-windows\ST1067189_ICE TASK 2_AEGIS AI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ST1067189_ICE TASK 2_AEGIS AI\ST1067189_ICE TASK 2_AEGIS AI\obj\Debug\net10.0-windows\ST1067189_ICE TASK 2_AEGIS AI.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ST1067189_ICE TASK 2_AEGIS AI\ST1067189_ICE TASK 2_AEGIS AI\obj\Debug\net10.0-windows\ST1067189_ICE TASK 2_AEGIS AI.AssemblyInfo.cs
+C:\Users\User\source\repos\ST1067189_ICE TASK 2_AEGIS AI\ST1067189_ICE TASK 2_AEGIS AI\obj\Debug\net10.0-windows\ST1067189_ICE TASK 2_AEGIS AI.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ST1067189_ICE TASK 2_AEGIS AI\ST1067189_ICE TASK 2_AEGIS AI\obj\Debug\net10.0-windows\ST106718.3CE220AD.Up2Date
+C:\Users\User\source\repos\ST1067189_ICE TASK 2_AEGIS AI\ST1067189_ICE TASK 2_AEGIS AI\obj\Debug\net10.0-windows\ST1067189_ICE TASK 2_AEGIS AI.dll
+C:\Users\User\source\repos\ST1067189_ICE TASK 2_AEGIS AI\ST1067189_ICE TASK 2_AEGIS AI\obj\Debug\net10.0-windows\refint\ST1067189_ICE TASK 2_AEGIS AI.dll
+C:\Users\User\source\repos\ST1067189_ICE TASK 2_AEGIS AI\ST1067189_ICE TASK 2_AEGIS AI\obj\Debug\net10.0-windows\ST1067189_ICE TASK 2_AEGIS AI.pdb
+C:\Users\User\source\repos\ST1067189_ICE TASK 2_AEGIS AI\ST1067189_ICE TASK 2_AEGIS AI\obj\Debug\net10.0-windows\ST1067189_ICE TASK 2_AEGIS AI.genruntimeconfig.cache
+C:\Users\User\source\repos\ST1067189_ICE TASK 2_AEGIS AI\ST1067189_ICE TASK 2_AEGIS AI\obj\Debug\net10.0-windows\ref\ST1067189_ICE TASK 2_AEGIS AI.dll
